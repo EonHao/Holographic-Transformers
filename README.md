@@ -1,4 +1,4 @@
-# Holographic Transformers for Complex-Valued Signal Processing
+# Holographic Transformers for Complex-Valued Signal Processing: Integrating Phase Interference into Self-Attention 	
 
 A PyTorch implementation of **Holographic Transformers** that integrate phase interference into self-attention mechanisms for complex-valued signal processing.
 

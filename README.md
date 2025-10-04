@@ -198,3 +198,13 @@ python examples/minimal_train.py
 cd holo_transformer
 python examples/visualize_attn.py
 ```
+
+## Citation
+```
+@article{huang2025holographic,
+  title={Holographic Transformers for Complex-Valued Signal Processing: Integrating Phase Interference into Self-Attention},
+  author={Huang, Enhao and Zhang, Zhiyu and Xu, Tianxiang and Xia, Chunshu and Hu, Kaichun and Yang, Yuchen and Pan, Tongtong and Dong, Dong and Qin, Zhan},
+  journal={arXiv preprint arXiv:2509.19331},
+  year={2025}
+}
+```

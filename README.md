@@ -1,5 +1,9 @@
 # Holographic Transformers for Complex-Valued Signal Processing: Integrating Phase Interference into Self-Attention 	
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Accepted%20at-IEEE%20ICASSP%202026-brightgreen?style=for-the-badge" alt="Accepted at IEEE ICASSP 2026">
+</p>
+
 A PyTorch implementation of **Holographic Transformers** that integrate phase interference into self-attention mechanisms for complex-valued signal processing.
 
 ## Pipeline

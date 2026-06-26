@@ -201,10 +201,14 @@ python examples/visualize_attn.py
 
 ## Citation
 ```
-@article{huang2025holographic,
-  title={Holographic Transformers for Complex-Valued Signal Processing: Integrating Phase Interference into Self-Attention},
-  author={Huang, Enhao and Zhang, Zhiyu and Xu, Tianxiang and Xia, Chunshu and Hu, Kaichun and Yang, Yuchen and Pan, Tongtong and Dong, Dong and Qin, Zhan},
-  journal={arXiv preprint arXiv:2509.19331},
-  year={2025}
-}
+@INPROCEEDINGS{11460870,
+  author={Huang, Enhao and Zhang, Zhiyu and Xia, Chunshu and Xu, Tianxiang and Hu, Kaichun and Yang, Yuchen and Pan, Tongtong and Dong, Dong and Qin, Zhan},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Holographic Transformers for Complex-Valued Signal Processing: Integrating Phase Interference into Self-Attention}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={4151-4155},
+  keywords={Feedback;Circuits;Wireless Access in Vehicular Environments;LoRa;Wireless communication;Instant messaging;Massive MIMO;MIMO;Electronic messaging;Internet;Transformer;Complex-valued signal processing;Phase-aware self-attention;Coherent interference},
+  doi={10.1109/ICASSP55912.2026.11460870}}
 ```
